@@ -4,7 +4,7 @@
 # Hejin Shin 
 #
 # This site, https://github.com/hshin222/da6223, contains CODEBOOK.md and homework4.sas. 
-# The data file (UCI HAR Dataset.zip) can be download directly from 
+# The data file (UCI HAR Dataset.zip) can be downloaded directly from 
 # http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip
 #
 # The SAS file specifies the libname "da" in the local directory "c:\DA6223\hw4" using the SAS command:
