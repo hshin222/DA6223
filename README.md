@@ -1,5 +1,11 @@
 # DA6223 - Data Analytics Tools & Techniques
 # Summer 2018
-# This is the homework assignment #4 
+# Homework assignment #4 
 # Hejin Shin 
-# This assignment is to prepare tidy data that can be used for later analysis
+#
+# This site, https://github.com/hshin222/da6223, contains CODEBOOK.md and homework4.sas. 
+# The data file (UCI HAR Dataset.zip) can be download directly from 
+# http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip
+# The SAS file designates the libname "da" set in "c:\data6223\hw4" using the SAS command:
+# LIBNAME da 'c:\da6223\hw4';run;
+# The data files are saved in C:\DA6223\UCI HAR Dataset\
